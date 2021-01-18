@@ -59,5 +59,9 @@ let vasa = +prompt('вес васи = ');
 let sasha = +prompt('вес саши = ');
 let full = vasa - sasha;
 console.log( `разница в весе ${full} кг` );
- 
+//  work
+let kosinusA = +prompt('косинус а = ');
+let kosinusB = +prompt('косинус b = ');
+let perimetr = (kosinusA * kosinusB) / 2;
+console.log(`perimetr treugolnika = ${perimetr} sm`);
  
