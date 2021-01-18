@@ -1,4 +1,4 @@
-let first = 'Ermek';
+/*let first = 'Ermek';
 let second = first;
 let  third = second;
 let  fouth = third;
@@ -52,3 +52,12 @@ let d = +prompt("what is D?");
 let num = c * d ;
 console.log(`the sum of two is equel to ${num}`)
 
+*/
+// HOMEWORK'S
+
+let vasa = +prompt('вес васи = ');
+let sasha = +prompt('вес саши = ');
+let full = vasa - sasha;
+console.log( `разница в весе ${full} кг` );
+ 
+ 
